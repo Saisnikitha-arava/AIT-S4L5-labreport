@@ -35,4 +35,5 @@ def solve_n_queens(N):
         print("No solution exists")
         return False
     return True
+
 solve_n_queens(4)
